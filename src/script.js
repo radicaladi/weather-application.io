@@ -4,6 +4,7 @@ $(document).ready(function () {
     const mbKey = 'pk.eyJ1IjoicmFkaWNhbGFkaSIsImEiOiJjbDBqeXF0ZmwwaGJ2M2JwN2Z2NjQwOW05In0.DeG0uTVU7fTcakv_9P8-0g';
     const owKey = '5f916097135ba8b3d083e163507f65c7';
 
+    // default start location: San Antonio, TX, USA
     let lat = 29.42;
     let lon = -98.49;
 
