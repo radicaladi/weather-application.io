@@ -43,7 +43,7 @@ $(document).ready(function () {
                 let date = new Date((data.list[i].dt) * 1000).toDateString();
 
                 cards.append(`
-                        <div class="card">
+                        <div class="card shadow me-2">
                             <div class="card-header text-center bg-secondary">${date}</div>
                             <div class="card-body text-center">
                                 <h6>${data.list[i].main.temp_max}°F / ${data.list[i].main.temp_min}°F</h6>

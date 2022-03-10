@@ -24,8 +24,11 @@ nav {
 }
 
 footer {
-    align-self: center;
     margin: 0.5em;
+}
+
+footer p {
+    text-align: center;
 }
 
 footer a {
