@@ -30,7 +30,6 @@ Users should be able to:
 ### Screenshot
 
 ![](assets/desktop_look.png)<br>
-![](assets/mobile_look.png)
 
 ### Links
 
