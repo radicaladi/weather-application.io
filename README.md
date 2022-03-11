@@ -18,7 +18,7 @@
 
 This is an interactive weather forecasting application that allows users to obtain a five-day weather forecast based on their geolocation inputs. The default starting location is San Antonio, Texas. As something fun to try, input the name of your favorite sports team's stadium or the name of your Alma Mater to the 'city' searchbar. (ex: Stamford Bridge, LSU etc.)
 
-Users should be able to:
+Users will be able to:
 
 - Make geolocation inputs via coordinates, address, or name of a desired location
 - See the name of their location input
