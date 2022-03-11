@@ -53,7 +53,8 @@ Users will be able to:
 
 ### What I Learned
 
-- I learned how to utilize jQuery to make practical Ajax GET requests to an API. Then apply Javascript and jQuery to access the JSON received from two separate APIs and render said data to a webpage in html markup that implements bootstrap class elements. The two requests are asynchronous but by tethering one to the other, I seamlessly integrate each API to develop a practical user-friendly web application. I also explored unfamiliar API libraries and learned how to implement the documentation of each to make a functional application that is as user-friendly as possible.
+- I learned how to utilize jQuery to make practical Ajax GET requests to an API. Then apply Javascript and jQuery to access the JSON received from two separate APIs and render said data to a webpage in html markup that implements bootstrap class elements. The two requests are asynchronous but by tethering one to the other, I seamlessly integrate each API to develop a practical user-friendly web application. 
+- I also explored unfamiliar API libraries and learned how to implement the documentation of each to make a functional application that is as user-friendly as possible.
 
 ### Continued Development
 
